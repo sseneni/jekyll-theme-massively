@@ -1,9 +1,9 @@
-# Massively
-> This is Massively, a text-heavy, article-oriented design built around a huge background
+# Parabola
+> This is Parabola, a text-heavy, article-oriented design built around a huge background
 image.
 
-See a preview of the Massively Jekyll Theme here: [https://iwiedenm.github.io/jekyll-theme-massively/](https://iwiedenm.github.io/jekyll-theme-massively/). <br>
-Massively was originally designed by HTML5UP and Jekyll was integrated by [JekyllUp: Jekyll Themes](https://jekyllup.com)
+See a preview of the Parabola Jekyll Theme here: [https://iwiedenm.github.io/jekyll-theme-massively/](https://iwiedenm.github.io/jekyll-theme-massively/). <br>
+Palabola was originally designed by HTML5UP and Jekyll was integrated by [JekyllUp: Jekyll Themes](https://jekyllup.com)
 
 ## How to Use This Theme
 Jekyll consumes themes in two flavors; gem-based or spread across multiple folders
@@ -16,7 +16,7 @@ Enjoy!
 If you're completely new to Jekyll, check out it's [documentation][jekyll] first.
 It's not too hard, we promise!
 
-[zip]: https://github.com/iwiedenm/jekyll-theme-massively-src/archive/master.zip
+[zip]: https://github.com/sseneni/jekyll-theme-Parabola-src/archive/master.zip
 [local]: http://127.0.0.1:4000/
 [jekyll]: https://jekyllrb.com/
 
@@ -38,12 +38,12 @@ sitemap:
 ## Credits
 ### Original README from HTML5 UP
 ```
-Massively by HTML5 UP
+Parabola by Geogebra
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
+This is Parabola, a text-heavy, article-oriented design built around a huge background
 image (with a new parallax implementation I'm testing) and scroll effects (powered by
 Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
 that fulfills a few user requests and makes use of some new techniques I've been wanting
