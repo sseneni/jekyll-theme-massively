@@ -31,7 +31,7 @@
 	$palette: (
 		wrapper-bg:			#212931,
 
-		bg:					##ffd138,
+		bg:					#ffffff,
 		fg:					#212931,
 		fg-bold:			#212931,
 		fg-light:			mix(#212931, #ffffff, 50%),
@@ -51,12 +51,12 @@
 
 		invert: (
 			bg:				#ffd138,
-			bg-alt:			#1e252d,
+			bg-alt:			#ffd138,
 			fg:				#ffffff,
 			fg-bold:		#ffffff,
 			fg-light:		rgba(#ffffff, 0.5),
 			border:			#ffffff,
 			border-bg:		rgba(#ffffff,0.075),
-			accent:			#18bfef,
+			accent:			#fff3bd,
 		),
 	);
