@@ -15,7 +15,19 @@ Github는
 
 Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
 
-### Github 소스코드
+### Github 소스코드(전)
+	<h2>Preformatted</h2>
+	<pre><code>i = 0;
+
+	while (!deck.isInOrder()) {
+	print 'Iteration ' + i;
+	deck.shuffle();
+	i++;
+	}
+
+	print 'It took ' + i + ' iterations to sort the deck.';
+	</code></pre>
+### Github 소스코드(후)
 	<h2>Preformatted</h2>
 	<pre><code>i = 0;
 
@@ -28,6 +40,4 @@ Receiving the benefits of content is a certain something. Be that as it may, it'
 	print 'It took ' + i + ' iterations to sort the deck.';
 	</code></pre>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
-
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+소스코드 전후 비교에 대한 글
