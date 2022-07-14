@@ -27,6 +27,7 @@ Receiving the benefits of content is a certain something. Be that as it may, it'
 
 	print 'It took ' + i + ' iterations to sort the deck.';
 	</code></pre>
+<br />
 ### Github 소스코드(후)
 	<h2>Preformatted</h2>
 	<pre><code>i = 0;
