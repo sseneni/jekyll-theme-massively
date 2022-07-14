@@ -31,7 +31,7 @@ The sitemap is auto generated! Just simply change the sitemap variable in front 
 ```
 sitemap:
   priority: 0.7
-  lastmod: 2017-11-02
+  lastmod: 2022-07-14
   changefreq: weekly
 ```
 
