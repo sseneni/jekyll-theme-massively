@@ -17,7 +17,7 @@ Receiving the benefits of content is a certain something. Be that as it may, it'
 
   <p>
 <!-- Preformatted Code -->
-	<h2>Preformatted</h2>
+	<h2>Githube 소스코드(전)</h2>
 	<pre><code>i = 0;
 
 	while (!deck.isInOrder()) {
@@ -33,7 +33,7 @@ Receiving the benefits of content is a certain something. Be that as it may, it'
 
 ### Github 소스코드(후)
 <div class="box">
-  <p>
+ <p>
 <!-- Preformatted Code -->
 	<h2>Preformatted</h2>
 	<pre><code>i = 0;
@@ -46,6 +46,6 @@ Receiving the benefits of content is a certain something. Be that as it may, it'
 
 	print 'It took ' + i + ' iterations to sort the deck.';
 	</code></pre>
-  </p>
+ </p>
 </div>
 소스코드 후 대한 글
