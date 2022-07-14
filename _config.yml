@@ -1,7 +1,7 @@
 # Site
 title:              Parabola
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+bio:                'Jekyll version of the Parabola by Geogebra'
+description:        "Jekyll version of the Parabola by Geogebra"
 locale:             en_KR
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sseneni.github.io" # the base hostname & protocol for your site
