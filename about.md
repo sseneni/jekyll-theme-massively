@@ -33,8 +33,7 @@ Receiving the benefits of content is a certain something. Be that as it may, it'
   </p>
 </div>
 여기다가 전 코드 내용
-<br />
----
+
 ### Github 소스코드(후)
 <div class="box">
   <p>
