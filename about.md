@@ -31,11 +31,10 @@ Receiving the benefits of content is a certain something. Be that as it may, it'
   </p>
 여기다가 전 코드 내용
 
-### Github 소스코드(후)
-<div class="box">
- <p>
-<!-- Preformatted Code -->
-	<h2>Preformatted</h2>
+
+<p>
+	<!-- Preformatted Code -->
+	<h2>Githube 소스코드(후)</h2>
 	<pre><code>i = 0;
 
 	while (!deck.isInOrder()) {
@@ -46,6 +45,5 @@ Receiving the benefits of content is a certain something. Be that as it may, it'
 
 	print 'It took ' + i + ' iterations to sort the deck.';
 	</code></pre>
- </p>
-</div>
+</p>
 소스코드 후 대한 글
