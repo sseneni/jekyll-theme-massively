@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Convergence Project - About - Parabola
+title: Convergence Project - About - Github
 description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
 sitemap:
     priority: 0.7
-    lastmod: 2017-11-02
+    lastmod: 2022-07-14
     changefreq: weekly
 ---
 ## Github를 이용한 포트폴리오 제작
