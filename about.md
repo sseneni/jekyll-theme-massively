@@ -19,7 +19,9 @@ GitHub는 2008년 미국 깃허브사(GitHub Inc)에서 서비스를 시작하�
 	<h2>Githube 소스코드(1)</h2>
 	<pre><code>
         <ul class="actions">
+	
         1. <="{{ "/blog/" | absolute_url }}" class="button">Our Blog
+	
         2. <="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt=""
 
         </ul>
