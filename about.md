@@ -16,7 +16,7 @@ GitHub는 2008년 미국 깃허브사(GitHub Inc)에서 서비스를 시작하�
 
   <p>
 	<!-- Preformatted Code -->
-	<h2>Githube 소스코드(1)</h2>
+	<h2>Githube 소스코드</h2>
 	<pre><code>
         <ul class="actions">
 	
