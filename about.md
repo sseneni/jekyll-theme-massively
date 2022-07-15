@@ -17,16 +17,15 @@ Receiving the benefits of content is a certain something. Be that as it may, it'
 
   <p>
 	<!-- Preformatted Code -->
-	<h2>Githube 소스코드(전)</h2>
-	<pre><code>i = 0;
+	<h2>Githube 소스코드(1)</h2>
+	<pre><code>
+								<footer>
+                <ul class="actions">
+                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
+                </ul>
+							</footer>
 
-	while (!deck.isInOrder()) {
-	print 'Iteration ' + i;
-	deck.shuffle();
-	i++;
-	}
-
-	print 'It took ' + i + ' iterations to sort the deck.';
+					</div>
 	</code></pre>
   </p>
 여기다가 전 코드 내용
@@ -34,7 +33,7 @@ Receiving the benefits of content is a certain something. Be that as it may, it'
 
 <p>
 	<!-- Preformatted Code -->
-	<h2>Githube 소스코드(후)</h2>
+	<h2>Githube 소스코드(2)</h2>
 	<pre><code>i = 0;
 
 	while (!deck.isInOrder()) {
