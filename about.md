@@ -19,16 +19,15 @@ Receiving the benefits of content is a certain something. Be that as it may, it'
 	<!-- Preformatted Code -->
 	<h2>Githube 소스코드(1)</h2>
 	<pre><code>
-								<footer>
+		<footer>
                 <ul class="actions">
-                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
+                <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
                 </ul>
-							</footer>
-
-					</div>
+	        </footer>
+		</div>
 	</code></pre>
   </p>
-여기다가 전 코드 내용
+위의 소스코드는 'OUR BUTTON'이라는 버튼을 만드는 코드이다. <ul class="actions"> 버튼 만든다는 시작 명령어, <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li> 버튼을 넣는다는 명령어이다.
 
 
 <p>
