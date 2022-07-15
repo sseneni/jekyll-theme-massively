@@ -28,20 +28,3 @@ GitHub는 2008년 미국 깃허브사(GitHub Inc)에서 서비스를 시작하�
 	</code></pre>
   </p>
 간단하게 Github를 이용한 간단한 소스코드를 살펴보면 위의 1번 소스코드는 <a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a>를 넣는다는 명령어이고 2번 소스코드는 원하는 위치에 사진을 넣는 명령어이다. 이 외에도 색을 정하는 명령어, 아이콘을 넣는 명령어 등등 포트폴리오를 제작하는데에 많은 명령어가 있다.
-
-
-<p>
-	<!-- Preformatted Code -->
-	<h2>Githube 소스코드(2)</h2>
-	<pre><code>i = 0;
-
-	while (!deck.isInOrder()) {
-	print 'Iteration ' + i;
-	deck.shuffle();
-	i++;
-	}
-
-	print 'It took ' + i + ' iterations to sort the deck.';
-	</code></pre>
-</p>
-소스코드 후 대한 글
