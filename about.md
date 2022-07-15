@@ -18,17 +18,14 @@ GitHub는 2008년 미국 깃허브사(GitHub Inc)에서 서비스를 시작하�
 	<!-- Preformatted Code -->
 	<h2>Githube 소스코드(1)</h2>
 	<pre><code>
-		<!-- Footer -->
-							<footer>
                 <ul class="actions">
                 <li>< ="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
                 </ul>
-							</footer>
 
 					</div>
 	</code></pre>
   </p>
-위의 소스코드는 <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li> 를 넣는다는 명령어이다.
+위의 소스코드는 <a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a>를 넣는다는 명령어이다.
 
 
 <p>
